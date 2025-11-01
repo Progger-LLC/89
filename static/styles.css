@@ -1,26 +1,21 @@
 body {
     font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 20px;
-}
-
-.container {
-    max-width: 600px;
-    margin: auto;
+    margin: 20px;
 }
 
 textarea {
     width: 100%;
-    padding: 10px;
-    margin-bottom: 10px;
+    height: 200px;
 }
 
 button {
-    padding: 10px 20px;
+    margin-top: 10px;
+    padding: 10px 15px;
 }
 
-pre {
-    background: #f4f4f4;
-    padding: 10px;
+#output {
+    margin-top: 20px;
     border: 1px solid #ccc;
+    padding: 10px;
+    background-color: #f9f9f9;
 }
